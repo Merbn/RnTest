@@ -1,2 +1,2 @@
-# RnTest
+# RnDemo
 React-native study
